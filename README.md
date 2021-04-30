@@ -1,2 +1,2 @@
 # EquipoFutbolCOD
-Proyecto COD sobre funciones y métodos
+Proyecto COD sobre funciones y métodos con una SuperClase y dos subClases 
